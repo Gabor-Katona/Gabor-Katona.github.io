@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.cbaa4a82.css",
-    "main.js": "/static/js/main.aebdf8ba.js",
+    "main.js": "/static/js/main.ef264d5d.js",
+    "static/media/Zápisnica-2-13.10.2022.pdf": "/static/media/Zápisnica-2-13.10.2022.69a627334cb217164f44.pdf",
     "static/media/Zápisnica-1-5.10.2022.pdf": "/static/media/Zápisnica-1-5.10.2022.c49a0fb90ebccfc94a6d.pdf",
     "static/media/rozvrh.png": "/static/media/rozvrh.e3ce9258808167eb1fc3.png",
     "static/media/bis.png": "/static/media/bis.b386d106b6b8ff8e495f.png",
     "static/media/bicycle.png": "/static/media/bicycle.62a3978dbe66ea7e06cb.png",
     "index.html": "/index.html",
     "main.cbaa4a82.css.map": "/static/css/main.cbaa4a82.css.map",
-    "main.aebdf8ba.js.map": "/static/js/main.aebdf8ba.js.map"
+    "main.ef264d5d.js.map": "/static/js/main.ef264d5d.js.map"
   },
   "entrypoints": [
     "static/css/main.cbaa4a82.css",
-    "static/js/main.aebdf8ba.js"
+    "static/js/main.ef264d5d.js"
   ]
 }
