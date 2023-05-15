@@ -1,11 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.cbaa4a82.css",
-    "main.js": "/static/js/main.5b857a96.js",
+    "main.js": "/static/js/main.07f414d4.js",
+    "static/media/app-release.apk": "/static/media/app-release.72497196461df4dafb82.apk",
+    "static/media/program.zip": "/static/media/program.27c06a9a9c0a29b0dac4.zip",
     "static/media/Zápisnica-4-26.10.2022.pdf": "/static/media/Zápisnica-4-26.10.2022.69e320623760ab028d47.pdf",
     "static/media/Zápisnica-5-4.11.2022.pdf": "/static/media/Zápisnica-5-4.11.2022.60e2706ff73c674ffa37.pdf",
     "static/media/Zápisnica-13-11.1.2023.pdf": "/static/media/Zápisnica-13-11.1.2023.a3c2d3131386bac099c7.pdf",
     "static/media/Zápisnica-23-2.5.2023.pdf": "/static/media/Zápisnica-23-2.5.2023.357deac0d72e47f0c952.pdf",
+    "static/media/Zápisnica-24-9.5.2023.pdf": "/static/media/Zápisnica-24-9.5.2023.86595bb141d27f4e4dc8.pdf",
     "static/media/Zápisnica-20-12.4.2023.pdf": "/static/media/Zápisnica-20-12.4.2023.5d73bf0e3dd5022fae2e.pdf",
     "static/media/Zápisnica-21-18.4.2023.pdf": "/static/media/Zápisnica-21-18.4.2023.f7125d967b3e64d33277.pdf",
     "static/media/Zápisnica-22-25.4.2023.pdf": "/static/media/Zápisnica-22-25.4.2023.9d19a39d7faebefd5bd9.pdf",
@@ -30,10 +33,10 @@
     "static/media/bicycle.png": "/static/media/bicycle.62a3978dbe66ea7e06cb.png",
     "index.html": "/index.html",
     "main.cbaa4a82.css.map": "/static/css/main.cbaa4a82.css.map",
-    "main.5b857a96.js.map": "/static/js/main.5b857a96.js.map"
+    "main.07f414d4.js.map": "/static/js/main.07f414d4.js.map"
   },
   "entrypoints": [
     "static/css/main.cbaa4a82.css",
-    "static/js/main.5b857a96.js"
+    "static/js/main.07f414d4.js"
   ]
 }
